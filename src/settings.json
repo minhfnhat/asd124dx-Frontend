@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Uncover the natural essence of your journey and connect with your true self.",
+        "title": "Discover Your Roots with Go Root"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover Your Roots with Go Root",
+  "subtitle": "Uncover the natural essence of your journey and connect with your true self."
+}
